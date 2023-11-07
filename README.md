@@ -154,7 +154,7 @@ int main(void)
     while (1)
   {
 	  Lcd_cursor(&lcd,0,1);
-	  Lcd_string(&lcd,"Sanjay\n");
+	  Lcd_string(&lcd,"Abishek Xavier\n");
 
 
 	  for( int x=0;x<100;x++)
