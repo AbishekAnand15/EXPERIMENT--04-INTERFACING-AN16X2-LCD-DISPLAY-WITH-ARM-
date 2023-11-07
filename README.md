@@ -160,7 +160,7 @@ int main(void)
 	  for( int x=0;x<100;x++)
 	  {
 		  Lcd_cursor(&lcd,1,0);
-		  Lcd_string(&lcd,"212222230132\n");
+		  Lcd_string(&lcd,"212222230004\n");
 	  HAL_Delay (200);
 	  }
 	  Lcd_clear(&lcd);
